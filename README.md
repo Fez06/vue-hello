@@ -13,3 +13,9 @@ RISOLUZIONE:
 3-Nel div creo un h1 che andro' a modificare direttamente con l'interpolazione che ci e' concessa da vue
 
 4-come nel punto 3 lo faccio anche per l'immagine 
+
+FINE
+
+CORREZIONI DI RISOLUZIONE
+
+1-Per la fonte del img devo usare il v-bind, perche' con il v-model ci viene restituita una stringa che non viene letta dal tag src
