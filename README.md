@@ -18,4 +18,4 @@ FINE
 
 CORREZIONI DI RISOLUZIONE
 
-1-Per la fonte del img devo usare il v-bind, perche' con il v-model ci viene restituita una stringa che non viene letta dal tag src
+1-Per la fonte del img devo usare il v-bind, perche' con l'interpolazione ci viene restituita una stringa che non viene letta dal tag src
